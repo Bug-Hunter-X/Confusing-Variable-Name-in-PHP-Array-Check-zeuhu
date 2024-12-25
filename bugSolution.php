@@ -1,0 +1,1 @@
+The solution is to rename the `$count` variable to something more descriptive, like `$arrayLength`,  and to explicitly check if the array is empty using `empty()` function. This improves code clarity and reduces the risk of errors.
