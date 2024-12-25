@@ -1,0 +1,1 @@
+This repository contains a PHP code example demonstrating a potential confusion with variable names when checking for empty arrays.  The `bug.php` file shows the problematic code, and the `bugSolution.php` file demonstrates the corrected version.  Improper variable naming can lead to difficult-to-debug issues.
